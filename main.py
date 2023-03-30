@@ -14,5 +14,3 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     eval_model(args)
-
-# default="/Users/aviv/Desktop/predicta/joint-pain-labeled-csv_patient_only_extracted_symptoms.csv"
